@@ -1,2 +1,2 @@
-# webpage-of-platshop
+# webpage-of-plantshop
 you can use it
